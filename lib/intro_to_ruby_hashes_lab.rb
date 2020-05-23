@@ -14,7 +14,9 @@ end
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
-  admiral = 
+  admiral = {
+    :name => "Grace Hopper"
+  } 
 end
 
 
