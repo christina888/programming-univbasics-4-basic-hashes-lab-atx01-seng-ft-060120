@@ -7,7 +7,7 @@ def my_hash
   # return a valid hash with any key/value pair of your choice
   kim_petras = {
     :name => "Kim Petras",
-    :occupation => "pop singer"
+    :occupation => "pop singer",
     :birthplace => "Germany"
   }
 end
