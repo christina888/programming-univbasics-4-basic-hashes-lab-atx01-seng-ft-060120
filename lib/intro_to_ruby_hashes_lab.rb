@@ -8,6 +8,7 @@ def my_hash
   kim_petras = {
     :name => "Kim Petras",
     :occupation => "pop singer"
+    :birthplace => "Germany"
   }
 end
 
