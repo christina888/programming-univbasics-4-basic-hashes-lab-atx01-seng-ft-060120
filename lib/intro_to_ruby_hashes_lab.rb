@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  pop_artist = {
+  female_pop_artist = {
     :name => "Kim Petras",
     :occupation => "pop singer",
     :birthplace => "Germany"
